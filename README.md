@@ -71,3 +71,5 @@ Certifique-se de ter os seguintes itens instalados no seu sistema:
 - **Cancel Download**: Cancela o download em andamento.
 - **Pause Download**: Pausa o download em andamento. Este botão alterna entre "Pause Download" e "Resume Download".
 - **Album Cover**: Exibe a capa do álbum da faixa que está sendo baixada no momento.
+
+## 
