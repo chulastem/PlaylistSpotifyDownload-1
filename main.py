@@ -1,7 +1,6 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import subprocess
-<<<<<<< HEAD
 import threading
 import ttkbootstrap as ttk
 from ttkbootstrap.constants import *
@@ -310,7 +309,7 @@ album_cover_label = Label(root)
 
 # Run the application
 root.mainloop()
-=======
+
 from moviepy.editor import *
 from pytube import YouTube
 import tkinter as tk
@@ -361,4 +360,3 @@ while True:
         tracks = sp.next(tracks)
     else:
         break
->>>>>>> 9646c085feb1c35aa3c4f6deebdb84b581a4bf88
