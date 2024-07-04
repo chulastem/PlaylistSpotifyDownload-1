@@ -12,13 +12,11 @@ Spotify Downloader é uma aplicação Python que permite aos usuários baixar fa
 Certifique-se de ter os seguintes itens instalados no seu sistema:
 
 1. Python 3.7+
+   
 2. `ytmdl` - uma ferramenta para baixar músicas do YouTube:
+   
     ```bash
     pip install ytmdl
-    ```
-3. Outras bibliotecas Python necessárias:
-    ```bash
-    pip install spotipy ttkbootstrap requests pillow
     ```
 
 ## Instalação
@@ -26,6 +24,9 @@ Certifique-se de ter os seguintes itens instalados no seu sistema:
 1. Clone este repositório para sua máquina local:
 
 2. Instale as bibliotecas Python necessárias:
+     ```
+    pip install spotipy subprocess threading ttkbootstrap tkinter re requests pillow
+    ```
 
 3. Configure suas credenciais da API do Spotify:
     - Crie uma conta de desenvolvedor Spotify e crie uma aplicação no [Painel de Desenvolvedor Spotify](https://developer.spotify.com/dashboard/applications).
