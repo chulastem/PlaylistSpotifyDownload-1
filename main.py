@@ -10,6 +10,7 @@ import os
 import requests
 from io import BytesIO
 from PIL import Image, ImageTk
+from youtube_search import YoutubeSearch
 
 # Spotify API credentials
 client_id = 'c83b7fd3c3704e30b1fb5c69e23a4b82'
