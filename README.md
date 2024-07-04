@@ -24,15 +24,8 @@ Certifique-se de ter os seguintes itens instalados no seu sistema:
 ## Instalação
 
 1. Clone este repositório para sua máquina local:
-    ```bash
-    git clone https://github.com/seuusuario/spotify-downloader.git
-    cd spotify-downloader
-    ```
 
 2. Instale as bibliotecas Python necessárias:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 3. Configure suas credenciais da API do Spotify:
     - Crie uma conta de desenvolvedor Spotify e crie uma aplicação no [Painel de Desenvolvedor Spotify](https://developer.spotify.com/dashboard/applications).
