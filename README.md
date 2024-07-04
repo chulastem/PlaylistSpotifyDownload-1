@@ -48,7 +48,7 @@ Certifique-se de ter os seguintes itens instalados no seu sistema:
 
 1. Execute a aplicação:
     ```bash
-    python spotify_downloader.py
+    python main.py
     ```
 
 2. Insira a URL do Spotify da faixa, álbum ou playlist que você deseja baixar no campo "Spotify URL".
